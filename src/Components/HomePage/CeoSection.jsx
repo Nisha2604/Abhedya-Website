@@ -14,7 +14,7 @@ function CeoSection() {
             <div className="CeoSection__left">
                 <div data-aos="fade-up">
                     <p className="CeoSection__leftTitle">
-                        YASH KUMAR GUPTA (CEO)
+                        Nisha Pratap 
                     </p>
                 </div>
                 <div data-aos="fade-up" data-aos-delay="100">
